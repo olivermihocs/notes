@@ -1,2 +1,2 @@
-# notes
-Notes app with Node.js, Python and Django
+# Notes app using Node.js, Python and Django
+
